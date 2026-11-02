@@ -1,43 +1,49 @@
 # Meating – Android Shopping Application
 
-An Android shopping application for a fictional ready-to-eat meat brand, featuring independently designed UI/UX in Figma and collaboratively developed Android functionality.
+An Android shopping application for a fictional ready-to-eat meat brand, developed collaboratively as an academic group project, building upon an original UI/UX design created in Figma.
 
 ## Project Overview
 
 Meating is an Android shopping application developed as a group project for an Android App Development course at National Kaohsiung University of Science and Technology (NKUST).
 
-The project aims to provide customers with a convenient mobile shopping experience for ready-to-eat meat products, integrating product browsing, shopping cart management, membership services, and order management.
+The project builds upon an earlier Systems Analysis and Design project, in which I served as team leader and independently designed the original iOS-based UI/UX using Figma. The team subsequently reused these designs as the foundation for the Android application.
 
-I was responsible for the complete UI/UX design of the application using Figma, including its visual identity, interface layouts, navigation structure, and user flows. The designs were subsequently implemented in the Android application by other team members, while the underlying application logic and functionality were developed collaboratively.
+As team leader of both projects, I contributed to team coordination and project documentation. During Android development, I also participated in collaborative coding of the application's logic and functionality, communicated the original design concepts to the team member responsible for Android UI implementation, and assisted in reviewing the interface for design consistency and implementation feasibility.
 
 ## My Contributions
 
+### Project Leadership
+
+- Served as team leader for both the Systems Analysis and Design and Android App Development projects.
+- Contributed to team coordination, task organisation, and project documentation.
+
 ### UI/UX Design – Individual Responsibility
 
-I independently designed the overall UI/UX of the Meating application using Figma.
+I independently designed the original UI/UX of Meating using Figma as part of the Systems Analysis and Design project.
 
-- Designed the overall visual identity, including the colour palette, typography, branding, and interface style.
+- Designed the original iOS interface, including the visual identity, colour palette, typography, branding, and interface style.
 - Created the application's navigation structure and user flows.
-- Designed layouts for key screens, including the home page, product catalogue, login and registration, shopping cart, checkout, member profile, and order history.
-- Designed the administrative interface, including inventory management screens.
-- Maintained a consistent visual experience across different application sections.
+- Designed layouts for customer-facing screens, including the home page, product catalogue, login and registration, shopping cart, checkout, member profile, and order history.
+- Designed administrative interfaces, including inventory management screens.
+- Established a consistent visual experience across different application sections.
+- Provided the original Figma designs as the UI/UX reference for the subsequent Android App Development project.
 
 ### Android Application Development – Group Collaboration
 
-The Android application was implemented collaboratively by the project team based on the Figma designs.
+The Android application was developed collaboratively by the project team, using the original Figma designs as the UI/UX reference.
 
-The group's development work covered:
-
-- Android application development using Java.
-- Implementation of application navigation and user interfaces.
-- Product browsing and shopping cart functionality.
-- Membership and account management.
-- Order processing and local data storage.
-- Integration of Android components and device features.
+- Participated in collaborative Android development, including coding application logic and functionality.
+- Communicated and handed over the original Figma design concepts and interface specifications to the team member responsible for Android UI implementation.
+- Assisted in reviewing the implemented Android interfaces to ensure consistency with the original designs, while considering implementation feasibility and the team's coding capabilities.
+- Contributed to preparing the written project report documenting the system analysis, design, and development process.process.
 
 ## UI/UX Design – Figma
 
-The complete application interface was independently designed in Figma prior to implementation. The design established the visual direction, navigation structure, and user experience across both customer-facing and administrative functions. The initial screen layouts were designed based on iOS device screen dimensions and were subsequently adapted for the Android application.
+The original Meating UI/UX design was developed as part of an earlier Systems Analysis and Design project, where I independently designed the application interface using Figma with iOS devices as the initial design platform.
+
+For the subsequent Android App Development project, the team reused the original design concepts and layouts as the foundation for the Android application. Rather than creating a separate design from scratch, the existing interface was used as a reference during Android implementation.
+
+I communicated the original Figma design concepts and interface specifications to the team member responsible for Android UI implementation, while assisting with design reviews and implementation considerations.
 
 📱 **[View Complete Original Figma Design](https://www.figma.com/design/wJNc1m53s84f4AR43IcyaF/MEATING-Application-Project?t=SbxSSODQokVkWC14-1)**
 
@@ -48,86 +54,86 @@ The following screenshots showcase my original UI/UX design work created in Figm
 #### Home Screen & Product Catalogue
 
 <table>
-  <tr>
-    <td align="center">
-      <strong>Home Screen</strong><br>
-      <img src="screenshots/figma/home-screen.png" width="250">
-    </td>
-    <td align="center">
-      <strong>Product Catalogue</strong><br>
-      <img src="screenshots/figma/product-catalogue.png" width="250">
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<strong>Home Screen</strong><br>
+<img src="screenshots/figma/home-screen.png" width="250">
+</td>
+<td align="center">
+<strong>Product Catalogue</strong><br>
+<img src="screenshots/figma/product-catalogue.png" width="250">
+</td>
+</tr>
 </table>
 
 #### Shopping Cart & Checkout
 
 <table>
-  <tr>
-    <td align="center">
-      <strong>Shopping Cart</strong><br>
-      <img src="screenshots/figma/shopping-cart.png" width="250">
-    </td>
-    <td align="center">
-      <strong>Checkout</strong><br>
-      <img src="screenshots/figma/checkout.png" width="250">
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<strong>Shopping Cart</strong><br>
+<img src="screenshots/figma/shopping-cart.png" width="250">
+</td>
+<td align="center">
+<strong>Checkout</strong><br>
+<img src="screenshots/figma/checkout.png" width="250">
+</td>
+</tr>
 </table>
 
 #### Membership & Order History
 
 <table>
-  <tr>
-    <td align="center">
-      <strong>Membership</strong><br>
-      <img src="screenshots/figma/member-profile.png" width="250">
-    </td>
-    <td align="center">
-      <strong>Order History</strong><br>
-      <img src="screenshots/figma/order-history.png" width="250">
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<strong>Membership</strong><br>
+<img src="screenshots/figma/member-profile.png" width="250">
+</td>
+<td align="center">
+<strong>Order History<strong><br>
+<img src="screenshots/figma/order-history.png" width="250">
+</td>
+</tr>
 </table>
 
 #### Administrative Interface
 
 <p align="left">
-  <img src="screenshots/figma/inventory-management.png" width="250" alt="Inventory management Figma design">
+<img src="screenshots/figma/inventory-management.png" width="250" alt="Inventory management Figma design">
 </p>
 
 ## Selected Implemented Android App Screens
 
-The Figma designs were translated into the Android application by other team members. The following screenshots demonstrate the implemented application and its interface.
+The Android application was implemented collaboratively by the project team based on the original Figma designs. The following screenshots demonstrate selected interfaces from the implemented application.
 
 #### Home Screen & Product Catalogue
 
 <table>
-  <tr>
-    <td align="center">
-      <strong>Home Screen</strong><br>
-      <img src="screenshots/android/home-screen.png" width="470">
-    </td>
-    <td align="center">
-      <strong>Product Catalogue</strong><br>
-      <img src="screenshots/android/product-catalogue.png" width="250">
-    </td>
-  </tr>
+ <tr>
+   <td align="center">
+     <strong>Home Screen</strong><br>
+     <img src="screenshots/android/home-screen.png" width="470">
+   </td>
+   <td align="center">
+     <strong>Product Catalogue<strong><br>
+     <img src="screenshots/android/product-catalogue.png" width="250">
+   </td>
+ </tr>
 </table>
 
 #### Shopping Cart & Membership
 
 <table>
-  <tr>
-    <td align="center">
-      <strong>Shopping Cart</strong><br>
-      <img src="screenshots/android/shopping-cart.png" width="570">
-    </td>
-    <td align="center">
-      <strong>Membership</strong><br>
-      <img src="screenshots/android/member-profile.png" width="250">
-    </td>
-  </tr>
+ <tr>
+   <td align="center">
+     <strong>Shopping Cart<strong><br>
+     <img src="screenshots/android/shopping-cart.png" width="570">
+   </td>
+   <td align="center">
+     <strong>Membership<strong><br>
+     <img src="screenshots/android/member-profile.png" width="250">
+   </td>
+ </tr>
 </table>
 
 ## Key Features
@@ -180,7 +186,7 @@ The Figma designs were translated into the Android application by other team mem
 - **Local Database:** SQLite
 - **Local Data Storage:** SharedPreferences
 - **Android Components:** Activities, Fragments, DialogFragment
-- **Android Features:** Intents, Notifications, BroadcastReceiver, Toast, Navigation Drawer
+- **Android Features:** Intents, BroadcastReceiver, Toast, Navigation Drawer
 
 ## Application Architecture
 
@@ -188,15 +194,15 @@ The application follows a standard Android project structure, with an Activity a
 
 ### Main Components
 
-| Component | Responsibility |
-|---|---|
-| `MainActivity.java` | Main application activity, navigation, product loading, shopping flow, and application-level event handling. |
-| `RegisterActivity.java` | Handles member registration. |
-| `DBHelper.java` | Manages the local SQLite database and table creation. |
-| `ProductDialogFragment.java` | Displays product selection options and size-dependent pricing. |
-| `LoginDialogFragment.java` | Provides the member login dialog. |
-| `LoginOutListener.java` | Supports login and logout event handling. |
-| `ui/` | Contains UI-related packages and application fragments. |
+| Component                    | Responsibility                                                                                               |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| `MainActivity.java`          | Main application activity, navigation, product loading, shopping flow, and application-level event handling. |
+| `RegisterActivity.java`      | Handles member registration.                                                                                 |
+| `DBHelper.java`              | Manages the local SQLite database and table creation.                                                        |
+| `ProductDialogFragment.java` | Displays product selection options and size-dependent pricing.                                               |
+| `LoginDialogFragment.java`   | Provides the member login dialog.                                                                            |
+| `LoginOutListener.java`      | Supports login and logout event handling.                                                                    |
+| `ui/`                        | Contains UI-related packages and application fragments.                                                      |
 
 ### Data Storage
 
@@ -245,29 +251,34 @@ Allow Android Studio to synchronise the Gradle project and download the required
 
 ## What I Learned
 
-Through this group project, I gained experience in:
+Through this project, I gained experience in:
 
+- Applying system analysis and design concepts to mobile application planning and development.
+- Independently translating system requirements into UI/UX designs using Figma.
 - Independently designing a complete mobile application UI/UX in Figma.
 - Developing a consistent visual identity and navigation structure across multiple application screens.
 - Translating user requirements into interface layouts and user journeys.
-- Understanding the relationship between UI/UX design and Android application implementation.
-- Collaborating with team members throughout the application development process.
-- Understanding mobile shopping workflows, including product selection, cart management, checkout, and membership services.
-- Gaining practical exposure to Android development concepts and local data management.
+- Communicating design specifications and collaborating with developers during UI implementation.
+- Participating in collaborative Android application development using Java.
+- Understanding Android application architecture and local data management.
+- Working with mobile shopping workflows, including product selection, cart management, checkout, and membership services.
+- Preparing technical documentation and collaborating throughout the software development process.
 
 ## Additional Documentation
 
-The original detailed project report in Traditional Chinese (繁體中文) is available in PDF format.
+The following project reports provide further details about the system analysis, original UI/UX design, and Android application development. Both reports are available in Traditional Chinese (繁體中文).
 
-📄 [View Traditional Chinese Project Documentation](docs/Meating-Android-Project-Report-zh-TW.pdf)
+- 📄 [Systems Analysis and Design Report](docs/Meating-Systems-Analysis-and-Design-Report.pdf)
+- 📄 [Android App Development Report](docs/Meating-Android-Project-Report-zh-TW.pdf)
 
 ## Project Information
 
 - **Project Name:** Meating
 - **Project Type:** Academic Group Project
-- **Course:** Android App Development
+- **Courses:** Systems Analysis and Design; Android App Development
 - **Institution:** National Kaohsiung University of Science and Technology (NKUST)
-- **Individual Contribution:** UI/UX Design
+- **Project Role:** Team Leader (Both Projects)
+- **Individual Contribution:** Original UI/UX Design, Android Application Development, and Project Documentation
 - **Design Tool:** Figma
 - **Application Platform:** Android
 - **Programming Language:** Java
