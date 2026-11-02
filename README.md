@@ -22,7 +22,8 @@ As team leader of both projects, I contributed to team coordination and project 
 I independently designed the original UI/UX of Meating using Figma as part of the Systems Analysis and Design project.
 
 - Designed the original iOS interface, including the visual identity, colour palette, typography, branding, and interface style.
-- Created the application's navigation structure and user flows.
+- Created the application's navigation structure and user flows, connecting key screens through interactive prototype elements.
+- Developed an interactive Figma prototype in which most buttons and interface elements were clickable, allowing users to navigate between screens and experience the proposed application workflows.
 - Designed layouts for customer-facing screens, including the home page, product catalogue, login and registration, shopping cart, checkout, member profile, and order history.
 - Designed administrative interfaces, including inventory management screens.
 - Established a consistent visual experience across different application sections.
