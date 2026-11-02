@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <product id="m1">
+        <name>原味雞胸肉</name>
+        <image>classicchicken</image>
+        <priceShort></priceShort>
+        <priceSmall>50</priceSmall>
+        <priceMedium>60</priceMedium>
+        <priceLarge>70</priceLarge>
+    </product>
+    <product id="m2">
+        <name>沙拉雞胸肉</name>
+        <image>saladchicken</image>
+        <priceShort></priceShort>
+        <priceSmall>60</priceSmall>
+        <priceMedium>70</priceMedium>
+        <priceLarge>80</priceLarge>
+    </product>
+    <product id="m3">
+        <name>肋眼牛排</name>
+        <image>meat</image>
+        <priceShort></priceShort>
+        <priceSmall>90</priceSmall>
+        <priceMedium>100</priceMedium>
+        <priceLarge>110</priceLarge>
+    </product>
+    <product id="m4">
+        <name>冷凍鹽酥雞</name>
+        <image>friedchicken</image>
+        <priceShort></priceShort>
+        <priceSmall>70</priceSmall>
+        <priceMedium>80</priceMedium>
+        <priceLarge>90</priceLarge>
+    </product>
+    <product id="m5">
+        <name>紹興酒醉雞</name>
+        <image>winechicken</image>
+        <priceShort></priceShort>
+        <priceSmall>80</priceSmall>
+        <priceMedium>90</priceMedium>
+        <priceLarge>100</priceLarge>
+    </product>
+    <product id="m6">
+        <name>麥樂雞</name>
+        <image>mcnuggets</image>
+        <priceShort></priceShort>
+        <priceSmall>70</priceSmall>
+        <priceMedium>80</priceMedium>
+        <priceLarge>90</priceLarge>
+    </product>
+    <product id="m7">
+        <name>炸雞手指</name>
+        <image>chickenfinger</image>
+        <priceShort></priceShort>
+        <priceSmall>65</priceSmall>
+        <priceMedium>75</priceMedium>
+        <priceLarge>85</priceLarge>
+    </product>
+</resources>

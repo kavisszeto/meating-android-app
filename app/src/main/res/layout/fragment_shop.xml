@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.shop.ShopFragment">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:id="@+id/layout_products"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <!-- m1 ImageButton with TextView on the same line -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:id="@+id/m1"
+                        android:layout_width="250dp"
+                        android:layout_height="150dp"
+                        android:layout_margin="4dp"
+                        android:backgroundTint="#FFE2D8"
+                        android:onClick="onClickProduct"
+                        android:scaleType="center"
+                        android:src="@drawable/classicchicken" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="\t即食雞胸肉\n原味"
+                        android:textSize="24sp" />
+                </LinearLayout>
+
+                <!-- m2 ImageButton with TextView on the next line -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:id="@+id/m2"
+                        android:layout_width="250dp"
+                        android:layout_height="150dp"
+                        android:layout_margin="4dp"
+                        android:backgroundTint="#FFE2D8"
+                        android:onClick="onClickProduct"
+                        android:scaleType="center"
+                        android:src="@drawable/saladchicken" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="\t即食雞胸肉\n沙拉"
+                        android:textSize="24sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
+                <!-- m3 ImageButton with TextView on the next line -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:id="@+id/m3"
+                        android:layout_width="250dp"
+                        android:layout_height="150dp"
+                        android:layout_margin="4dp"
+                        android:backgroundTint="#FFE2D8"
+                        android:onClick="onClickProduct"
+                        android:src="@drawable/meat" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="\t肋眼大牛排\n黑胡椒"
+                        android:textSize="24sp"
+                        android:gravity="center" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <!-- ... (m1, m2, m3 的 LinearLayout) ... -->
+
+                <!-- m4 ImageButton with TextView on the same line -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:id="@+id/m4"
+                        android:layout_width="250dp"
+                        android:layout_height="150dp"
+                        android:layout_margin="4dp"
+                        android:backgroundTint="#FFE2D8"
+                        android:onClick="onClickProduct"
+                        android:src="@drawable/friedchicken" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="\t冷凍鹽酥雞\n辣味"
+                        android:textSize="24sp"
+                        android:gravity="center" />
+                </LinearLayout>
+
+                <!-- m5 ImageButton with TextView on the next line -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:id="@+id/m5"
+                        android:layout_width="250dp"
+                        android:layout_height="150dp"
+                        android:layout_margin="4dp"
+                        android:backgroundTint="#FFE2D8"
+                        android:onClick="onClickProduct"
+                        android:src="@drawable/winechicken2" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="\t即食大雞捲\n紹興酒"
+                        android:textSize="24sp"
+                        android:gravity="center"  />
+                </LinearLayout>
+
+                <!-- m6 ImageButton with TextView on the next line -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:id="@+id/m6"
+                        android:layout_width="250dp"
+                        android:layout_height="150dp"
+                        android:layout_margin="4dp"
+                        android:backgroundTint="#FFE2D8"
+                        android:onClick="onClickProduct"
+                        android:src="@drawable/mcnuggets" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="\t冷凍麥樂雞\n原味"
+                        android:textSize="24sp"
+                        android:gravity="center"  />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:id="@+id/m7"
+                        android:layout_width="250dp"
+                        android:layout_height="150dp"
+                        android:layout_margin="4dp"
+                        android:backgroundTint="#FFE2D8"
+                        android:onClick="onClickProduct"
+                        android:src="@drawable/chickenfinger" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="\t冷凍炸雞指\n胡麻醬"
+                        android:textSize="24sp"
+                        android:gravity="center"  />
+                </LinearLayout>
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab_checkout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginRight="36dp"
+        android:layout_marginBottom="64dp"
+        android:clickable="true"
+        android:src="@drawable/shopping_cart_24px"
+        app:backgroundTint="#FFA462" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
