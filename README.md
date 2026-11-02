@@ -257,9 +257,9 @@ Through this group project, I gained experience in:
 
 ## Additional Documentation
 
-The original project report in Traditional Chinese (繁體中文) is available in PDF format.
+The original detailed project report in Traditional Chinese (繁體中文) is available in PDF format.
 
-[View Traditional Chinese Project Documentation](docs/Meating-Android-Project-Report-zh-TW.pdf)
+📄 [View Traditional Chinese Project Documentation](docs/Meating-Android-Project-Report-zh-TW.pdf)
 
 ## Project Information
 
