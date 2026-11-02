@@ -37,7 +37,7 @@ The group's development work covered:
 
 ## UI/UX Design – Figma
 
-The complete application interface was independently designed in Figma before implementation. The design established the visual direction, navigation structure, and user experience across customer-facing and administrative functions.
+The complete application interface was independently designed in Figma prior to implementation. The design established the visual direction, navigation structure, and user experience across both customer-facing and administrative functions. The initial screen layouts were designed based on iOS device screen dimensions and were subsequently adapted for the Android application.
 
 📱 **[View Complete Original Figma Design](https://www.figma.com/design/wJNc1m53s84f4AR43IcyaF/MEATING-Application-Project?t=SbxSSODQokVkWC14-1)**
 
