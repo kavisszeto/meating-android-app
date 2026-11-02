@@ -268,7 +268,7 @@ Through this project, I gained experience in:
 
 The following project reports provide further details about the system analysis, original UI/UX design, and Android application development. Both reports are available in Traditional Chinese (繁體中文).
 
-- 📄 [Systems Analysis and Design Report](docs/Meating-Systems-Analysis-and-Design-Report.pdf)
+- 📄 [Systems Analysis and Design Report](docs/Systems-Analysis-and-Design-Report.pdf)
 - 📄 [Android App Development Report](docs/Meating-Android-Project-Report-zh-TW.pdf)
 
 ## Project Information
