@@ -4,7 +4,7 @@ An Android shopping application for a fictional ready-to-eat meat brand, develop
 
 ## Project Overview
 
-Meating is an Android shopping application developed as a group project for an Android App Development course at National Kaohsiung University of Science and Technology (NKUST).
+Meating is an Android shopping application developed as a group project for an Android Programming course at National Kaohsiung University of Science and Technology (NKUST).
 
 The project builds upon an earlier Systems Analysis and Design project, in which I served as team leader and independently designed the original iOS-based UI/UX using Figma. The team subsequently reused these designs as the foundation for the Android application.
 
@@ -14,7 +14,7 @@ As team leader of both projects, I contributed to team coordination and project 
 
 ### Project Leadership
 
-- Served as team leader for both the Systems Analysis and Design and Android App Development projects.
+- Served as team leader for both the Systems Analysis and Design and Android Programming projects.
 - Contributed to team coordination, task organisation, and project documentation.
 
 ### UI/UX Design – Individual Responsibility
@@ -26,7 +26,7 @@ I independently designed the original UI/UX of Meating using Figma as part of th
 - Designed layouts for customer-facing screens, including the home page, product catalogue, login and registration, shopping cart, checkout, member profile, and order history.
 - Designed administrative interfaces, including inventory management screens.
 - Established a consistent visual experience across different application sections.
-- Provided the original Figma designs as the UI/UX reference for the subsequent Android App Development project.
+- Provided the original Figma designs as the UI/UX reference for the subsequent Android Programming project.
 
 ### Android Application Development – Group Collaboration
 
@@ -41,7 +41,7 @@ The Android application was developed collaboratively by the project team, using
 
 The original Meating UI/UX design was developed as part of an earlier Systems Analysis and Design project, where I independently designed the application interface using Figma with iOS devices as the initial design platform.
 
-For the subsequent Android App Development project, the team reused the original design concepts and layouts as the foundation for the Android application. Rather than creating a separate design from scratch, the existing interface was used as a reference during Android implementation.
+For the subsequent Android Programming project, the team reused the original design concepts and layouts as the foundation for the Android application. Rather than creating a separate design from scratch, the existing interface was used as a reference during Android implementation.
 
 I communicated the original Figma design concepts and interface specifications to the team member responsible for Android UI implementation, while assisting with design reviews and implementation considerations.
 
@@ -269,13 +269,13 @@ Through this project, I gained experience in:
 The following project reports provide further details about the system analysis, original UI/UX design, and Android application development. Both reports are available in Traditional Chinese (繁體中文).
 
 - 📄 [Systems Analysis and Design Report](docs/Systems-Analysis-and-Design-Report.pdf)
-- 📄 [Android App Development Report](docs/Meating-Android-Project-Report-zh-TW.pdf)
+- 📄 [Android Programming Report](docs/Meating-Android-Project-Report-zh-TW.pdf)
 
 ## Project Information
 
 - **Project Name:** Meating
 - **Project Type:** Academic Group Project
-- **Courses:** Systems Analysis and Design; Android App Development
+- **Courses:** Systems Analysis and Design; Android Programming
 - **Institution:** National Kaohsiung University of Science and Technology (NKUST)
 - **Project Role:** Team Leader (Both Projects)
 - **Individual Contribution:** Original UI/UX Design, Android Application Development, and Project Documentation
