@@ -40,13 +40,13 @@ The Android application was developed collaboratively by the project team, using
 
 ## UI/UX Design – Figma
 
-The original Meating UI/UX design was developed as part of an earlier Systems Analysis and Design project, where I independently designed the application interface using Figma with iOS devices as the initial design platform.
+The original Meating UI/UX design was developed as part of an earlier Systems Analysis and Design project, where I independently designed the application interface using Figma with iOS devices as the initial design platform. I also developed an interactive Figma prototype, with most buttons and interface elements linked to corresponding screens to demonstrate the proposed navigation and user interaction flows.
 
 For the subsequent Android Programming project, the team reused the original design concepts and layouts as the foundation for the Android application. Rather than creating a separate design from scratch, the existing interface was used as a reference during Android implementation.
 
 I communicated the original Figma design concepts and interface specifications to the team member responsible for Android UI implementation, while assisting with design reviews and implementation considerations.
 
-📱 **[View Complete Original Figma Design](https://www.figma.com/design/wJNc1m53s84f4AR43IcyaF/MEATING-Application-Project?t=SbxSSODQokVkWC14-1)**
+📱 **[View Complete Interactive Figma Design](https://www.figma.com/design/wJNc1m53s84f4AR43IcyaF/MEATING-Application-Project?t=SbxSSODQokVkWC14-1)**
 
 ### Selected Figma Design Screens
 
