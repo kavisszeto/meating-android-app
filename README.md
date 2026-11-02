@@ -45,71 +45,90 @@ The complete application interface was independently designed in Figma before im
 
 The following screenshots showcase my original UI/UX design work created in Figma.
 
-#### Home Screen and Navigation
+#### Home Screen & Product Catalogue
 
-<p align="center">
-  <img src="screenshots/figma/home-screen.png" width="600" alt="Meating home screen Figma design">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <strong>Home Screen</strong><br>
+      <img src="screenshots/figma/home-screen.png" width="250">
+    </td>
+    <td align="center">
+      <strong>Product Catalogue</strong><br>
+      <img src="screenshots/figma/product-catalogue.png" width="250">
+    </td>
+  </tr>
+</table>
 
-#### Product Catalogue
+#### Shopping Cart & Checkout
 
-<p align="center">
-  <img src="screenshots/figma/product-catalogue.png" width="600" alt="Product catalogue Figma design">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <strong>Shopping Cart</strong><br>
+      <img src="screenshots/figma/shopping-cart.png" width="250">
+    </td>
+    <td align="center">
+      <strong>Checkout</strong><br>
+      <img src="screenshots/figma/checkout.png" width="250">
+    </td>
+  </tr>
+</table>
 
-#### Shopping Cart and Checkout
+#### Membership & Order History
 
-<p align="center">
-  <img src="screenshots/figma/shopping-cart.png" width="600" alt="Shopping cart Figma design">
-</p>
-
-<p align="center">
-  <img src="screenshots/figma/checkout.png" width="600" alt="Checkout Figma design">
-</p>
-
-#### Membership and Order History
-
-<p align="center">
-  <img src="screenshots/figma/member-profile.png" width="600" alt="Member profile Figma design">
-</p>
-
-<p align="center">
-  <img src="screenshots/figma/order-history.png" width="600" alt="Order history Figma design">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <strong>Membership</strong><br>
+      <img src="screenshots/figma/member-profile.png" width="250">
+    </td>
+    <td align="center">
+      <strong>Order History</strong><br>
+      <img src="screenshots/figma/order-history.png" width="250">
+    </td>
+  </tr>
+</table>
 
 #### Administrative Interface
 
-<p align="center">
-  <img src="screenshots/figma/inventory-management.png" width="600" alt="Inventory management Figma design">
+<p align="left">
+  <img src="screenshots/figma/inventory-management.png" width="250" alt="Inventory management Figma design">
 </p>
 
 ## Selected Implemented Android App Screens
 
 The Figma designs were translated into the Android application by other team members. The following screenshots demonstrate the implemented application and its interface.
 
-#### Home Screen
+#### Home Screen & Product Catalogue
 
-<p align="center">
-  <img src="screenshots/android-app/home-screen.png" width="600" alt="Implemented Android home screen">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <strong>Home Screen</strong><br>
+      <img src="screenshots/android/home-screen.png" width="470">
+    </td>
+    <td align="center">
+      <strong>Product Catalogue</strong><br>
+      <img src="screenshots/android/product-catalogue.png" width="250">
+    </td>
+  </tr>
+</table>
 
-#### Product Browsing and Shopping
+#### Shopping Cart & Membership
 
-<p align="center">
-  <img src="screenshots/android-app/product-catalogue.png" width="600" alt="Implemented Android product catalogue">
-</p>
-
-#### Shopping Cart
-
-<p align="center">
-  <img src="screenshots/android-app/shopping-cart.png" width="600" alt="Implemented Android shopping cart">
-</p>
-
-#### Membership and Order History
-
-<p align="center">
-  <img src="screenshots/android-app/member-profile.png" width="600" alt="Implemented Android member profile">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <strong>Shopping Cart</strong><br>
+      <img src="screenshots/android/shopping-cart.png" width="570">
+    </td>
+    <td align="center">
+      <strong>Membership</strong><br>
+      <img src="screenshots/android/member-profile.png" width="250">
+    </td>
+  </tr>
+</table>
 
 ## Key Features
 
