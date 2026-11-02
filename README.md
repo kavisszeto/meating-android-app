@@ -83,7 +83,7 @@ The following screenshots showcase my original UI/UX design work created in Figm
   <img src="screenshots/figma/inventory-management.png" width="600" alt="Inventory management Figma design">
 </p>
 
-## Implemented Android App
+## Selected Implemented Android App Screens
 
 The Figma designs were translated into the Android application by other team members. The following screenshots demonstrate the implemented application and its interface.
 
@@ -99,7 +99,7 @@ The Figma designs were translated into the Android application by other team mem
   <img src="screenshots/android-app/product-catalogue.png" width="600" alt="Implemented Android product catalogue">
 </p>
 
-#### Shopping Cart and Checkout
+#### Shopping Cart
 
 <p align="center">
   <img src="screenshots/android-app/shopping-cart.png" width="600" alt="Implemented Android shopping cart">
