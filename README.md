@@ -36,7 +36,49 @@ The Android application was developed collaboratively by the project team, using
 - Participated in collaborative Android development, including coding application logic and functionality.
 - Communicated and handed over the original Figma design concepts and interface specifications to the team member responsible for Android UI implementation.
 - Assisted in reviewing the implemented Android interfaces to ensure consistency with the original designs, while considering implementation feasibility and the team's coding capabilities.
-- Contributed to preparing the written project report documenting the system analysis, design, and development process.process.
+- Contributed to preparing the written project report documenting the system analysis, design, and development process.
+
+## System Analysis
+
+As part of the Systems Analysis and Design project, the team analysed the proposed smart retail system before any design or development work began.
+
+- **Requirements analysis:** defined functional requirements for customers and staff (login, registration, shopping and checkout, order tracking and inventory management) and non-functional requirements covering usability, compatibility and stability.
+- **Functional decomposition diagram:** broke the system down into its main functions and sub-functions.
+- **UML use case diagram and use case descriptions:** documented actors, main and alternative flows, and pre- and post-conditions for three key use cases: login, purchase and checkout, and inventory management.
+- **UML sequence diagrams:** showed the order of interactions between customers, staff, the login system, the shopping platform, the shopping cart and the inventory system.
+- **Context diagram and Level 0 data flow diagram (DFD):** mapped how data moves between customers, staff, the warehouse and the system, covering registration, login, orders, purchase records and inventory updates.
+- **Project planning:** produced a Gantt chart and a PERT chart to schedule tasks and identify the critical path.
+
+### Selected Analysis Diagrams
+
+<table>
+<tr>
+<td align="center">
+<strong>Use Case Diagram</strong><br>
+<img src="screenshots/system-analysis/use-case-diagram.jpg" width="400">
+</td>
+<td align="center">
+<strong>Sequence Diagram – Purchase and Checkout</strong><br>
+<img src="screenshots/system-analysis/sequence-diagram-checkout.jpg" width="400">
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>Context Diagram</strong><br>
+<img src="screenshots/system-analysis/context-diagram.jpg" width="400">
+</td>
+<td align="center">
+<strong>Level 0 Data Flow Diagram</strong><br>
+<img src="screenshots/system-analysis/dfd-level-0.jpg" width="400">
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<strong>Functional Decomposition Diagram</strong><br>
+<img src="screenshots/system-analysis/functional-decomposition.jpg" width="500">
+</td>
+</tr>
+</table>
 
 ## UI/UX Design – Figma
 
@@ -91,7 +133,7 @@ The following screenshots showcase my original UI/UX design work created in Figm
 <img src="screenshots/figma/member-profile.png" width="250">
 </td>
 <td align="center">
-<strong>Order History<strong><br>
+<strong>Order History</strong><br>
 <img src="screenshots/figma/order-history.png" width="250">
 </td>
 </tr>
@@ -116,7 +158,7 @@ The Android application was implemented collaboratively by the project team base
      <img src="screenshots/android/home-screen.png" width="470">
    </td>
    <td align="center">
-     <strong>Product Catalogue<strong><br>
+     <strong>Product Catalogue</strong><br>
      <img src="screenshots/android/product-catalogue.png" width="250">
    </td>
  </tr>
@@ -127,11 +169,11 @@ The Android application was implemented collaboratively by the project team base
 <table>
  <tr>
    <td align="center">
-     <strong>Shopping Cart<strong><br>
+     <strong>Shopping Cart</strong><br>
      <img src="screenshots/android/shopping-cart.png" width="570">
    </td>
    <td align="center">
-     <strong>Membership<strong><br>
+     <strong>Membership</strong><br>
      <img src="screenshots/android/member-profile.png" width="250">
    </td>
  </tr>
@@ -254,9 +296,8 @@ Allow Android Studio to synchronise the Gradle project and download the required
 
 Through this project, I gained experience in:
 
-- Applying system analysis and design concepts to mobile application planning and development.
-- Independently translating system requirements into UI/UX designs using Figma.
-- Independently designing a complete mobile application UI/UX in Figma.
+- Applying system analysis and design techniques, including use case modelling, sequence diagrams and data flow diagrams, to mobile application planning and development.
+- Independently translating system requirements into a complete mobile application UI/UX design in Figma.
 - Developing a consistent visual identity and navigation structure across multiple application screens.
 - Translating user requirements into interface layouts and user journeys.
 - Communicating design specifications and collaborating with developers during UI implementation.
@@ -283,6 +324,7 @@ The following project reports provide further details about the system analysis,
 - **Design Tool:** Figma
 - **Application Platform:** Android
 - **Programming Language:** Java
+- **Grades:** Systems Analysis and Design 85/100; Android Programming 99/100
 - **Completion Date:** January 2024
 
 ---
