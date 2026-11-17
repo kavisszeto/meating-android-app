@@ -2,7 +2,7 @@
 
 An Android shopping application for a fictional ready-to-eat meat brand, developed collaboratively as an academic group project, building upon an original UI/UX design created in Figma.
 
-## Project Overview
+## Project Overview 
 
 Meating is an Android shopping application developed as a group project for an Android Programming course at National Kaohsiung University of Science and Technology (NKUST).
 
